@@ -1,8 +1,11 @@
 ---
 name: cli-app-builder
-description: Build CLI applications with Commander.js
+description: Build CLI applications with Commander.js - test edit 121
 category: cli
-tags: ["cli", "commander", "node"]
+tags:
+  - cli
+  - commander
+  - node
 difficulty: intermediate
 version: 1.0.0
 author: Claude Skills Hub
